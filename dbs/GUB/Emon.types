@@ -1,0 +1,4 @@
+pk,name
+name,str
+age,int
+address,str
